@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DndCharacterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-15T15:43:15" hostname="MahanPC" time="0.022">
+  <properties/>
+  <testcase name="ability modifier for score 3 is n4" classname="DndCharacterTest" time="0.022"/>
+  <system-out><![CDATA[score is 3 and modifier is -4.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
