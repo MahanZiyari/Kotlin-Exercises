@@ -18,15 +18,6 @@ Since this is your first Kotlin exercise, we've included a detailed TUTORIAL.md
 file that guides you through your solution. Check it out for tips and
 assistance!
 
-
-
-## Setup
-
-Go through the setup instructions for Kotlin to install the necessary
-dependencies:
-
-[https://exercism.io/tracks/kotlin/installation](https://exercism.io/tracks/kotlin/installation)
-
 ## Making the test suite pass
 
 Execute the tests with:
@@ -41,12 +32,3 @@ In the test suites all tests but the first have been skipped.
 
 Once you get a test passing, you can enable the next one by removing the
 `@Ignore` annotation.
-
-## Source
-
-This is an exercise to introduce users to using Exercism [http://en.wikipedia.org/wiki/%22Hello,_world!%22_program](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program)
-
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
