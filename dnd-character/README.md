@@ -32,13 +32,6 @@ programming languages are designed to roll dice. One such language is [Troll].
 [DND]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
 [Troll]: http://hjemmesider.diku.dk/~torbenm/Troll/
 
-## Setup
-
-Go through the setup instructions for Kotlin to install the necessary
-dependencies:
-
-[https://exercism.io/tracks/kotlin/installation](https://exercism.io/tracks/kotlin/installation)
-
 ## Making the test suite pass
 
 Execute the tests with:
@@ -53,12 +46,3 @@ In the test suites all tests but the first have been skipped.
 
 Once you get a test passing, you can enable the next one by removing the
 `@Ignore` annotation.
-
-## Source
-
-Simon Shine, Erik Schierboom [https://github.com/exercism/problem-specifications/issues/616#issuecomment-437358945](https://github.com/exercism/problem-specifications/issues/616#issuecomment-437358945)
-
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
