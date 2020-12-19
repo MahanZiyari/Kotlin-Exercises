@@ -1,6 +1,6 @@
-internal fun twofer(name: String): String {
-    if (name == null)
-        return "One for you, one for me."
-    return "One for $name, one for me."
+internal fun twofer(name: String?): String {
+    return name.let {
+        "One for $name, one for me."
+    }
 
 }
