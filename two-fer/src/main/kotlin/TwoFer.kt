@@ -1,6 +1,6 @@
 internal fun twofer(name: String?): String {
     return name.let {
-        "One for $name, one for me."
+        "One for $it, one for me."
     }
 
 }
