@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResistorColorDuoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-22T06:34:48" hostname="MahanPC" time="0.019">
+  <properties/>
+  <testcase name="brown and black" classname="ResistorColorDuoTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
