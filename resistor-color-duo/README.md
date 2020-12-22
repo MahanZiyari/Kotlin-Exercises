@@ -26,12 +26,6 @@ From the example above:
 brown-green should return 15
 brown-green-violet should return 15 too, ignoring the third color.
 
-## Setup
-
-Go through the setup instructions for Kotlin to install the necessary
-dependencies:
-
-[https://exercism.io/tracks/kotlin/installation](https://exercism.io/tracks/kotlin/installation)
 
 ## Making the test suite pass
 
@@ -47,12 +41,3 @@ In the test suites all tests but the first have been skipped.
 
 Once you get a test passing, you can enable the next one by removing the
 `@Ignore` annotation.
-
-## Source
-
-Maud de Vries, Erik Schierboom [https://github.com/exercism/problem-specifications/issues/1464](https://github.com/exercism/problem-specifications/issues/1464)
-
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
