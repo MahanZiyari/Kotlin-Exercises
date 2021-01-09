@@ -15,20 +15,11 @@ year, but 2000 is.
 
 ## Notes
 
-Though our exercise adopts some very simple rules, there is more to
-learn!
-
 For a delightful, four minute explanation of the whole leap year
 phenomenon, go watch [this youtube video][video].
 
 [video]: http://www.youtube.com/watch?v=xX96xng7sAE
 
-## Setup
-
-Go through the setup instructions for Kotlin to install the necessary
-dependencies:
-
-[https://exercism.io/tracks/kotlin/installation](https://exercism.io/tracks/kotlin/installation)
 
 ## Making the test suite pass
 
@@ -49,7 +40,3 @@ Once you get a test passing, you can enable the next one by removing the
 
 JavaRanch Cattle Drive, exercise 3 [http://www.javaranch.com/leap.jsp](http://www.javaranch.com/leap.jsp)
 
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
