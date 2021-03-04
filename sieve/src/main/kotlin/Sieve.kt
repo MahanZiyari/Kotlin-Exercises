@@ -7,7 +7,6 @@ object Sieve {
         val result  = mutableListOf<Int>()
 
         for (i in 2 until upperBound){
-            println("i = ${i}")
             if (i in numbers)
                 result.add(i)
             numbers.removeIf { it % i == 0 }
