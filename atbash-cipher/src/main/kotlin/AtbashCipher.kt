@@ -1,10 +1,16 @@
 object Atbash {
 
     fun encode(s: String): String{
-        TODO("Implement the function to complete the task")
+        return decode(s)
+            .chunked(5)
+            .joinToString(" ")
     }
 
     fun decode(s: String): String{
-        TODO("Implement the function to complete the task")
+        return s
+            .toLowerCase()
+            .filter { it.isLetterOrDigit() }
+            .map { if (it.isLetter()) (219 - it.toInt()).toChar() else it }
+            .joinToString("")
     }
 }
