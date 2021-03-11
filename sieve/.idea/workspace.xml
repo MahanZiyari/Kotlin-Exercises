@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb16e65a-9be4-4923-9cc3-1ab8f09a8596" name="Default Changelist" comment="" />
+    <list default="true" id="fb16e65a-9be4-4923-9cc3-1ab8f09a8596" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/src/main/kotlin/NthPrime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/src/main/kotlin/NthPrime.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nth-prime/src/test/kotlin/PrimeTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../nth-prime/src/test/kotlin/PrimeTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Sieve.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Sieve.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +168,7 @@
       <workItem from="1614319283384" duration="4222000" />
       <workItem from="1614619907029" duration="1751000" />
       <workItem from="1614884522393" duration="625000" />
+      <workItem from="1615226448347" duration="628000" />
     </task>
     <servers />
   </component>
